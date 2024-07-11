@@ -1,9 +1,7 @@
 /*
-Data Structure Project << DSS3S4 G1 >>
-1. Muhammad Haziq Aiman bin Mohd Nazaruddin (CI230058)
-2. Niza Atiera Syamimie binti Zawali (AI230095)
-3. Nur Shaeira binti Zulfadly (AI230036)
-4. Nur 'Alimi Irfan bin Ahmad (CI230023)
+Data Structure Project
+- Add, Delete and Search Node in Doubly Linked List
+- Sorting (Selection Sorting)
 */
 
 #include <stdio.h>
